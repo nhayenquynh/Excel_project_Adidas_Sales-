@@ -40,7 +40,7 @@ include:
 
   **Sum of Total Sales:** The total revenue generated for each product category and region.
 
- ** Row Labels:** The product categories and regions used for aggregation.
+  **Row Labels:** The product categories and regions used for aggregation.
 
   This sheet is primarily used for creating visualizations and further analysis in the Dashboard.
 
